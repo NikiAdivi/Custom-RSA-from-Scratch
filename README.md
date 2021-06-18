@@ -11,7 +11,7 @@ Hence even if the public key is known it is difficult to find the private key.
 
 ### Disclaimer 
 This is not the original RSA implementation. Considering the system limitations, the following implementation encrypts letter by letter.
-Also uses a padding scheme to add digits at alteernate places to ensure that same letter doesn't get encrypted to the same number.
+Also uses a padding scheme to add digits at alternate places to ensure that same letter doesn't get encrypted to the same number.
 
 ## Two types of implementatons:
 ### Using File handling:
@@ -33,9 +33,8 @@ The buttons Encrypt and Decrypt will perform the respective operations.
 ## Screenshots
 
 ### Using Files
-Encrypted file
 ![image](https://user-images.githubusercontent.com/43961340/122583286-b1a48680-d076-11eb-92d8-e1fcbda97920.png)
-Decrypted file
+
 ![image](https://user-images.githubusercontent.com/43961340/122583307-b5d0a400-d076-11eb-856e-e917c00ee039.png)
 
 ### Using GUI
