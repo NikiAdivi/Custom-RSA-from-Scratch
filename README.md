@@ -19,7 +19,7 @@ The data to be encrypted has to be written into the file `toBeEncrypted.txt` .
 Two files will be created namely `encrypted.txt` and `Decrypted.txt` in the same folder containing
 encrypted and decrypted data respectively.
 
-- To run: `python3 RSA_filehandling.py`
+- To run: `python RSA_filehandling.py`
 ```
 NOTE: If you are running the program more than once make sure the previoiusly
 created `encrypted.txt` and `Decrypted.txt` are deleted from the directory.
@@ -28,7 +28,7 @@ created `encrypted.txt` and `Decrypted.txt` are deleted from the directory.
 A message box will appear right after running the program.
 The buttons Encrypt and Decrypt will perform the respective operations.
 
-- To run: `python3 RSA_GUI`
+- To run: `python RSA_GUI.py`
 
 ## Screenshots
 
